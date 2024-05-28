@@ -1,0 +1,9 @@
+opencv-python
+pywebview
+Flask
+Werkzeug
+tensorflow
+numpy
+pyautogui
+pandas
+matplotlib
